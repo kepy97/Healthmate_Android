@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HealthMate</string>
+    <string name="state_list">State list*</string>
+    <string name="select_state">Select state*</string>
+    <string name="city_list">City list*</string>
+    <string name="select_city">Select city*</string>
+    <string name="area_list">Area list*</string>
+    <string name="select_area">Select area*</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_mobile_number">Enter your mobile number*</string>
+    <string name="your_last_name">Your last name*</string>
+    <string name="your_first_name">Your first name*</string>
+    <string name="enter_password">Enter password*</string>
+    <string name="enter_email_id">Enter email id*</string>
+    <string name="enter_password_login">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="if_you_are_new_user">If you are new user</string>
+
+    <string name="please_select_state">Please select state</string>
+    <string name="please_select_city">Please select city</string>
+    <string name="please_select_area">Please select area</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="view_appointments">View Appointments</string>
+    <string name="my_appointments">My Appointments</string>
+    <string name="location">Location</string>
+    <string name="enter_email_id_login">Enter Email ID</string>
+    <string name="select_date">Select date</string>
+    <string name="select_time">Select time*</string>
+    <string name="doctor_name">Doctor Name</string>
+    <string name="hospital_name">Hospital Name</string>
+</resources>
