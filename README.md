@@ -7,14 +7,14 @@ This is the android application code of healthmate project. You can check full p
 # Demo
 
 <p float="left">
-  <img src="/Demo/demo-3.jpeg" width="200" height="400" />
-  <img src="/Demo/demo-2.jpeg" width="200" height="400" /> 
-  <img src="/Demo/demo-1.jpeg" width="200" height="400" />
+  <img src="/Demo/demo3.jpeg" width="200" height="400" />
+  <img src="/Demo/demo2.jpeg" width="200" height="400" /> 
+  <img src="/Demo/demo1.jpeg" width="200" height="400" />
 </p>
 
 <p float="left">
-  <img src="/Demo/demo-5.jpeg" width="200" height="400" /> 
-  <img src="/Demo/demo-4.jpeg" width="200" height="400" />
+  <img src="/Demo/demo5.jpeg" width="200" height="400" /> 
+  <img src="/Demo/demo4.jpeg" width="200" height="400" />
 </p>
 
 ![Poster](/Demo/Poster.jpeg)
